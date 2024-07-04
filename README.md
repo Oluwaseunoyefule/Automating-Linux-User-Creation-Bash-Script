@@ -8,3 +8,7 @@ First, the script makes sure it executes with root privileges and verifies that 
 
 2. Initialize password and log file
 To maintain security, we provide the locations for the password and log files, make the required folders, and establish the right permissions. 
+![Capture2](https://github.com/Oluwaseunoyefule/Automating-Linux-User-Creation-Bash-Script/assets/94696105/8b1c61da-959a-413a-a484-60f74766ddd3)
+
+3. Creating random Passwords and logging Capabilities
+This procedure assist in creating random passwords and timestamping activity logs.
