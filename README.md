@@ -24,3 +24,8 @@ The aim of this function is to check if the user already exists then Create a pe
 
 6. Password generation along with secure storage
 Lastly, the script creates and assigns a random password to every user, safely saves it, and records the activity.
+![Capture6](https://github.com/Oluwaseunoyefule/Automating-Linux-User-Creation-Bash-Script/assets/94696105/a4e8cb29-a463-42c2-99f8-f6f0fd8fe0b1)
+
+7. Create a test file containing users and groups separated by ';'
+
+#Conclusion
