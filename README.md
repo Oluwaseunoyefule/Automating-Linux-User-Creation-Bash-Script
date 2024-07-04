@@ -16,3 +16,7 @@ This procedure assist in creating random passwords and timestamping activity l
 
 4. Whitespace removal
 The script reads the user list file line by line, stripping whitespace for cleaner processing.
+![Capture4](https://github.com/Oluwaseunoyefule/Automating-Linux-User-Creation-Bash-Script/assets/94696105/00c8527b-57c0-4e1e-91f7-8a92ac071f6a)
+
+5. User and Group Creation
+the aim of this function is to check if the user already exists then Create a personal group for each user and a group for the groups. This function the Creates the user and adds them to specified groups and adds user to multiple groups if required.
