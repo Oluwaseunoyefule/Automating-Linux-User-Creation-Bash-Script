@@ -12,3 +12,7 @@ To maintain security, we provide the locations for the password and log files, m
 
 3. Creating random Passwords and logging Capabilities
 This procedure assist in creating random passwords and timestamping activity logs.
+![Capture3](https://github.com/Oluwaseunoyefule/Automating-Linux-User-Creation-Bash-Script/assets/94696105/e642cd88-a82e-4f1f-b1be-8c95ff665c38)
+
+4. Whitespace removal
+The script reads the user list file line by line, stripping whitespace for cleaner processing.
