@@ -27,5 +27,9 @@ Lastly, the script creates and assigns a random password to every user, safely s
 ![Capture6](https://github.com/Oluwaseunoyefule/Automating-Linux-User-Creation-Bash-Script/assets/94696105/a4e8cb29-a463-42c2-99f8-f6f0fd8fe0b1)
 
 7. Create a test file containing users and groups separated by ';'
+![Capture7](https://github.com/Oluwaseunoyefule/Automating-Linux-User-Creation-Bash-Script/assets/94696105/bdd5deae-9818-4a62-be9b-5cf815dbf0f8)
+
+8. making the text and shell script file executable
+
 
 #Conclusion
