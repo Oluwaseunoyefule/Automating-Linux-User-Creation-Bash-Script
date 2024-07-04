@@ -30,6 +30,10 @@ Lastly, the script creates and assigns a random password to every user, safely s
 ![Capture7](https://github.com/Oluwaseunoyefule/Automating-Linux-User-Creation-Bash-Script/assets/94696105/bdd5deae-9818-4a62-be9b-5cf815dbf0f8)
 
 8. making the text and shell script file executable
-
+![Capture8](https://github.com/Oluwaseunoyefule/Automating-Linux-User-Creation-Bash-Script/assets/94696105/b17662e7-038f-4680-9225-a71dc4075635)
 
 #Conclusion
+This post is task number two for the HNG Internship's devops track. This concise guide provides a clear understanding of the script and the reasoning behind each step, ensuring you can implement and adapt it to your needs.
+HNG internship is an excellent way to expand your knowledge in a range of technological domains. Visit their website to find out more information, including how the HNG Internship may help further your technical career. 
+{hng internship}(https://hng.tech/internship)  {hng premium}(https://hng.tech/premium)
+
